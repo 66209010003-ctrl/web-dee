@@ -1,0 +1,8 @@
+{
+  "name": "แอปแจ้งเตือนการทานยา",
+  "description": "แอปพลิเคชันแจ้งเตือนการทานยาที่ออกแบบตามสไตล์ MIT App Inventor โดยใช้เทคโนโลยี TinyDB (LocalStorage) และ Clock (Timer) เพื่อความแม่นยำในการแจ้งเตือน พร้อมระบบโปรไฟล์และประวัติการทานยา",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
